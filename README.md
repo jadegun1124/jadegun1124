@@ -4,7 +4,7 @@ I am a sophomore EECS student at **DGIST**, aspiring to become an **Analog IC De
 My goal is to bridge the gap between semiconductor device physics and high-precision circuit design to create innovative silicon solutions.
 
 ## 🚀 Leadership & Activities
-* **Chair & Founder of D-FAB (Semiconductor Club):** Building an end-to-end semiconductor community at DGIST. We explore the entire lifecycle of silicon, from **Fabrication processes** and **Device physics** to **Digital/Analog IC Design**.
+* **Chair & Founder of D-FAB (Semiconductor Club) [https://github.com/D-FAB-official]:** Building an end-to-end semiconductor community at DGIST. We explore the entire lifecycle of silicon, from **Fabrication processes** and **Device physics** to **Digital/Analog IC Design**.
   
   **Key Activities:**
   * **Regular Study Groups:** Hosting weekly sessions on Verilog HDL, Analog Circuits, and Semiconductor Processes.
